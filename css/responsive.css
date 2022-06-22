@@ -1,0 +1,89 @@
+@media(max-width: 800px) {
+    .hero-caption h1 {
+        font-weight: 500;
+        font-size: 26px;
+        color: #fff;
+    }
+    .sale-chart-view{
+		display: table;
+		width: 100%;
+		margin-bottom: 15px;
+	}
+	.doughnut .chart-legend li .doughnut-legend-text, .doughnut .chart-legend li .line-legend-text{
+		font-size:16px; 
+	}
+    .doughnut {
+        display: block;
+    }
+    .doughnutChartContainer {
+        margin-right: 0;
+        margin: 0 auto;
+    }
+    .token-sale-area .owl-carousel .owl-nav button.owl-prev {
+        left: 40%;
+    }
+    .token-sale-area .owl-carousel .owl-nav button.owl-next {
+        left: 57%;
+    }
+    .roadmap-sec .owl-carousel .owl-nav button.owl-prev {
+        left: 40%;
+    }
+    .roadmap-sec .owl-carousel .owl-nav button.owl-next {
+        left: 57%;
+    }
+    .banefits-area .banefits-item {
+        padding: 20px;
+    }
+    .banefits-area .banefits-item img {
+        position: static;
+        -webkit-transform: translateY(0%);
+        transform: translateY(0%);
+        padding-bottom: 10px;
+    }
+    .middle-header {
+        padding: 40px 0;
+    }
+    .pre-sale-timer.style-2 {
+        margin-bottom: 0px;
+    }
+    .pre-sale-timer > div {
+        vertical-align: top;
+    }
+    .pre-sale-timer.style-2 {
+        padding: 30px 5px;
+    }
+    #clock li span {
+        font-size: 33px;
+    }
+    #clock li span em {
+        font-size: 12px;
+    }
+    .crypten-trade-content>.title {
+        font-size: 30px;
+    }
+    .crypten-trade-content .trade-about-follow ul li a {
+        font-size: 18px;
+       
+        margin-right: 16px;
+    }
+    .section-title .title {
+        font-size: 28px;
+        line-height: 40px;
+      
+    }
+    .home-header .nav-link.head-sign {
+        margin: 0;
+        margin-bottom: 10px;
+    }
+    .main-fill-btn, .main-bor-btn {
+        width: 140px;
+        padding: 7px 20px;
+    }
+        
+}
+
+@media(max-width:600px){
+    a.navbar-brand img {
+        width: 100px;
+    }
+}
